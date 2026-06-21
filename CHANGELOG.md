@@ -1,3 +1,11 @@
+# 更新日志
+
+## V1.1.1 - 2026-06-21
+
+### 更新内容
+- 更新“聚合站”跳转链接至 shop.xuedingtoken1.com
+- 发布当前海外 AI 商品页与 X-Twitter Premium 图片更新
+- 重新构建并部署 GitHub Pages 静态资源
 \# 更新日志
 
 
